@@ -9,6 +9,8 @@ lambda function
 
 npm i -g netlify-cli
 
+npm install
+
 npm run start
 
 ```
