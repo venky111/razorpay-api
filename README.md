@@ -12,3 +12,6 @@ npm i -g netlify-cli
 npm run start
 
 ```
+### Run your endpoints as below
+
+http://localhost:9000/.netlify/functions/server/function_name
